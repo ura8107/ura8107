@@ -8,4 +8,4 @@
   I rely primarily on quantitative methods.                                     
                                                                                 
   For publications, working papers, and contact information,                    
-  please visit my [personal page](<[URL](https://sites.google.com/view/yuki-matsuura/home)>).
+  please visit my [personal page](<[https://sites.google.com/view/yuki-matsuura/home]>).
