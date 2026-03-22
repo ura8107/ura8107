@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**ura8107/ura8107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ # Yuki Matsuura                                                               
+                                                                                
+  Research Fellow, Institute of Developing Economies (IDE-JETRO)                
+   
+  My research sits at the intersection of comparative politics, political       
+  economy,                                  
+  and international relations, with a regional focus on Southeast Asia.         
+  I rely primarily on quantitative methods.                                     
+                                                                                
+  For publications, working papers, and contact information,                    
+  please visit my [personal page](<[URL](https://sites.google.com/view/yuki-matsuura/home)>).
