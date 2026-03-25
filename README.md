@@ -11,5 +11,3 @@
   For publications, working papers, and contact information,                    
   please visit my [personal page](https://sites.google.com/view/yuki-matsuura/home).
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ura8107
-)](https://github.com/anuraghazra/github-readme-stats)
